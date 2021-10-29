@@ -23,3 +23,10 @@ body {
     margin: 0 auto;
     width: 75%;
 }
+
+.bonappetit{
+    font-family: 'Fruktur', cursive;
+    font-size: 2.5rem;
+    color: saddlebrown;
+    text-align: center;
+}
